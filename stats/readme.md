@@ -12,7 +12,7 @@ You are to create a program called stats_calculator.py that reads a series of in
  - Median of the numbers.
  - Mode of the numbers.
 
->>>The output from the program is to display the information described above using the following strings preceding the values. There is to be a space between the colon and the value.
+>The output from the program is to display the information described above using the following strings preceding the values. There is to be a space between the colon and the value.
 
     File name:
     Sum:
@@ -23,4 +23,4 @@ You are to create a program called stats_calculator.py that reads a series of in
     Range:
     Median:
     Mode:
->>>
+>
