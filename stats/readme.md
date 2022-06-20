@@ -30,11 +30,11 @@ The output from the program is to display the information described above using 
 
 Example 1
 
-    Numbers: 6, 6, 7, 8, 10, 11, 15, 15, 17, 17, 17
+> Numbers: 6, 6, 7, 8, 10, 11, 15, 15, 17, 17, 17
 
-    There are 11 numbers in this example. This means that the median is the middle value. The middle value is at (11+1)/2 = 6. The 11 is at the 6th position and is therefore the median. Note that to calculate the position of the middle value add 1 to the quantity of numbers and divide by 2.
+There are 11 numbers in this example. This means that the median is the middle value. The middle value is at (11+1)/2 = 6. The 11 is at the 6th position and is therefore the median. Note that to calculate the position of the middle value add 1 to the quantity of numbers and divide by 2.
 
-    The mode is 17 because it occurs the most frequently. The number 17 occurs three times. The numbers 15 and 6 occur two times. All the other numbers occur one time.
+The mode is 17 because it occurs the most frequently. The number 17 occurs three times. The numbers 15 and 6 occur two times. All the other numbers occur one time.
 
 Example 2
 
