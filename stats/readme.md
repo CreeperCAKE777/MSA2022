@@ -1,6 +1,6 @@
 # Stats Calculator
 
-You are to create a program called numstat2.py that reads a series of integer numbers from a file and determines and displays the following:
+You are to create a program called stats_calculator.py that reads a series of integer numbers from a file and determines and displays the following:
 
  - Name of the file.
  - Sum of the numbers.
@@ -12,3 +12,15 @@ You are to create a program called numstat2.py that reads a series of integer nu
  - Median of the numbers.
  - Mode of the numbers.
 
+>>>The output from the program is to display the information described above using the following strings preceding the values. There is to be a space between the colon and the value.
+
+    File name:
+    Sum:
+    Count:
+    Average:
+    Maximum:
+    Minimum:
+    Range:
+    Median:
+    Mode:
+>>>
