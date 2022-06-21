@@ -1,3 +1,5 @@
+import os.path
+
 def get_file_name():
     while True:
         #prompt user to enter file name
@@ -5,6 +7,9 @@ def get_file_name():
         #make sure user entered a value. Re prompt if not
         if user_input == "":
             print("ERROR: please enter a value.\n")
+            continue
+        elif not os.path.exists(user_input):
+            print("ERROR: File does not exist.\n")
             continue
         else:
             break
